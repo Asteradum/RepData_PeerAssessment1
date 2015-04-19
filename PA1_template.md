@@ -15,15 +15,6 @@ Sys.setlocale("LC_TIME", "C") # LOCAL TIME -> English
 df <- read.csv("Activity.csv")
 ```
 
-```
-## Warning in file(file, "rt"): cannot open file 'Activity.csv': No such file
-## or directory
-```
-
-```
-## Error in file(file, "rt"): cannot open the connection
-```
-
 What is mean total number of steps taken per day?
 ----------------------------------------------------
 
